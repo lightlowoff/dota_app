@@ -1,8 +1,8 @@
 import telebot
 import requests
 
-BOT_TOKEN = '5401879504:AAF-uKlp1WFvU0QxA_7IozY6Ht7bYIaV2Ug'
-STRATZ_API_TOKEN = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJTdWJqZWN0IjoiZWE5MDAzYmUtOGRiNS00NmQ5LThjZDAtNGQ1MzA4ZmMyMTZlIiwiU3RlYW1JZCI6IjM5ODUxNTUzOCIsIm5iZiI6MTcwNzk1Njg1MCwiZXhwIjoxNzM5NDkyODUwLCJpYXQiOjE3MDc5NTY4NTAsImlzcyI6Imh0dHBzOi8vYXBpLnN0cmF0ei5jb20ifQ.QA5fPxq9Ufspi_o1Ku8CgvzcPBjG8ploTrEbICF91fg'
+BOT_TOKEN = 'text'
+STRATZ_API_TOKEN = 'text'
 API_URL = 'https://api.stratz.com/api/v1/Hero'
 
 bot = telebot.TeleBot(BOT_TOKEN)
